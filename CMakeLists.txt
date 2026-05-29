@@ -4,4 +4,6 @@ project(skullbreaker)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(skullbreaker
-        Skullbreaker.cpp)
+        Skullbreaker.cpp
+        Skull_breaker_graphics.h
+        skull_breaker_kernel.h)
